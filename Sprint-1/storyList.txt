@@ -1,0 +1,5 @@
+1. Design a mechanism for reporting user annoucements.
+2. Plan the page layout.
+3. Desing a system for advertisement publication.
+4. Design an advertisement search bar.
+5. Plan the user rating system.
