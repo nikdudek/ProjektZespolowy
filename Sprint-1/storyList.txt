@@ -1,5 +1,5 @@
-1. Design a mechanism for reporting user annoucements.
-2. Plan the page layout.
-3. Desing a system for advertisement publication.
-4. Design an advertisement search bar.
-5. Plan the user rating system.
+1. Design a mechanism for reporting user annoucements. (PROJ-7)
+2. Plan the page layout. (PROJ-6)
+3. Desing a system for advertisement publication. (PROJ-11)
+4. Design an advertisement search bar. (PROJ-12)
+5. Plan the user rating system. (PROJ-9)
