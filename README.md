@@ -10,7 +10,7 @@
 This project is a classified advertisements website. {dodac dalej..}
 	
 ## Team members
-* Dominik Dudek - [JIRA](#www.google.pl)
+* Dominik Dudek - [JIRA](www.google.pl)
 * Paweł Kowalczyk
 * Mateusz Malendowski
 * Patryk Suruło
