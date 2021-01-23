@@ -1,0 +1,6 @@
+1. Cel projektu
+2. Jego komponenty
+3. Diagramy sekwencji/przypadków użycia/klas najważniejszych funkcjonalności
+4. Schamat bazy
+5. Najważniejsze/najczęściej wykonywana zapytania do bazy
+6. Kroki podjęte przy projektowaniu bazy dla jej optymalizacji pod kątem tych zapytań
