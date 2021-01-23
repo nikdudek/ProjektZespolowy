@@ -1,4 +1,4 @@
-# Nazwa naszej strony - page with advertisements
+# Nazwa naszej strony - classified advertisements website
 
 ## Table of contents
 * [General info](#general-info)
@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is a website. {dodac dalej..}
+This project is a classified advertisements website. {dodac dalej..}
 	
 ## Technologies
 Project is created with:
