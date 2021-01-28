@@ -1,13 +1,13 @@
-# Nazwa naszej strony - classified advertisements website
+# Kupseco - classified advertisements website
 
 ## Table of contents
 * [General info](#general-info)
 * [Team members](#team-members)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
 ## General info
-This project is a classified advertisements website. {dodac dalej..}
+This project is a classified advertisements website.
+Our goal is to create an internet website with classified ads, accessible to all types of users, with clear and legible pages, and simple and quick to use.
 	
 ## Team members
 * Dominik Dudek - [JIRA](https://projektzespolowy-sklep.atlassian.net/issues/?jql=assignee%20in%20(5f847496ce2442006fdeecbd)%20AND%20project%20%3D%20PROJ%20order%20by%20created%20DESC&atlOrigin=eyJpIjoiNDA2YjU5MjlmNzk2NDgyZjhmMWFjMjkzOGQ4YmNlM2YiLCJwIjoiaiJ9)
@@ -18,7 +18,8 @@ This project is a classified advertisements website. {dodac dalej..}
 
 ## Technologies
 Project is created with:
-* {wpisac technologie i wersje..}
-	
-## Setup
-To run this project, simply enter the website {dodac opcje pobrania wszystkiego do odpalenia strony lokalnie..}
+* XAMPP 8.0.1
+* Apache HTTP Server
+* MySQL
+* PHP (Personal Home Page) Language
+* WordPress (with WooCommerce plugin)
