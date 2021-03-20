@@ -22,4 +22,4 @@ Project is created with:
 * Apache HTTP Server
 * MySQL
 * PHP (Personal Home Page) Language
-* WordPress (with WooCommerce plugin)
+* WordPress (with HivePress plugin)
